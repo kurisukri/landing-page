@@ -7,3 +7,4 @@ const init = async () => {
 	document.documentElement.innerHTML = newHTML;
 };
 init();
+
